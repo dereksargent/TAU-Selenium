@@ -1,0 +1,203 @@
+1593176228434	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pq/f_w4yv8j06b_tbb69h1wnfy8txsbhl/T/rust_mozprofiledSnv8w"
+1593176231041	Marionette	INFO	Listening on port 57754
+1593176231102	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://duckduckgo.com/d2816.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2816.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2816.js, line 1: unreachable code after return statement
+1593176232053	Marionette	INFO	Stopped listening on port 57754
+1593444279753	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pq/f_w4yv8j06b_tbb69h1wnfy8txsbhl/T/rust_mozprofileQhHPaQ"
+1593444282868	Marionette	INFO	Listening on port 52665
+1593444282897	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://duckduckgo.com/d2817.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2817.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2817.js, line 1: unreachable code after return statement
+1593444284406	Marionette	INFO	Stopped listening on port 52665
+1593655012995	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pq/f_w4yv8j06b_tbb69h1wnfy8txsbhl/T/rust_mozprofileNisZEQ"
+1593655016455	Marionette	INFO	Listening on port 56612
+1593655040359	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pq/f_w4yv8j06b_tbb69h1wnfy8txsbhl/T/rust_mozprofile0029ql"
+1593655042530	Marionette	INFO	Listening on port 56671
+1593655042619	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+1593655044943	Marionette	INFO	Stopped listening on port 56671
+1593655058286	Marionette	INFO	Stopped listening on port 56612
+1593656462591	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pq/f_w4yv8j06b_tbb69h1wnfy8txsbhl/T/rust_mozprofilek3EoOj"
+1593656464804	Marionette	INFO	Listening on port 57083
+1593656464853	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+1593656465850	Marionette	INFO	Stopped listening on port 57083
+1593656470293	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pq/f_w4yv8j06b_tbb69h1wnfy8txsbhl/T/rust_mozprofile9R87vS"
+1593656472346	Marionette	INFO	Listening on port 57145
+1593656472445	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+1593656473319	Marionette	INFO	Stopped listening on port 57145
+1593656477641	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pq/f_w4yv8j06b_tbb69h1wnfy8txsbhl/T/rust_mozprofileN66vZE"
+1593656479598	Marionette	INFO	Listening on port 57207
+1593656479605	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+1593656481477	Marionette	INFO	Stopped listening on port 57207
+1593656535808	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pq/f_w4yv8j06b_tbb69h1wnfy8txsbhl/T/rust_mozprofile1jbSmf"
+1593656537803	Marionette	INFO	Listening on port 57276
+1593656537869	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+1593656539936	Marionette	INFO	Stopped listening on port 57276
+1593656544344	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pq/f_w4yv8j06b_tbb69h1wnfy8txsbhl/T/rust_mozprofile3XKtbo"
+1593656546379	Marionette	INFO	Listening on port 57344
+1593656546406	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+1593656548641	Marionette	INFO	Stopped listening on port 57344
+1593656553090	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pq/f_w4yv8j06b_tbb69h1wnfy8txsbhl/T/rust_mozprofilem3N7VW"
+1593656555129	Marionette	INFO	Listening on port 57412
+1593656555145	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+1593656557175	Marionette	INFO	Stopped listening on port 57412
+1593656910048	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pq/f_w4yv8j06b_tbb69h1wnfy8txsbhl/T/rust_mozprofilei5TZha"
+1593656910048	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pq/f_w4yv8j06b_tbb69h1wnfy8txsbhl/T/rust_mozprofileyp4jfR"
+1593656910048	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pq/f_w4yv8j06b_tbb69h1wnfy8txsbhl/T/rust_mozprofile75d6Cg"
+1593656912961	Marionette	INFO	Listening on port 57534
+1593656912989	Marionette	INFO	Listening on port 57533
+1593656912998	Marionette	INFO	Listening on port 57532
+1593656913030	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593656913046	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593656913046	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+1593656915501	Marionette	INFO	Stopped listening on port 57532
+1593656915668	Marionette	INFO	Stopped listening on port 57534
+1593656915867	Marionette	INFO	Stopped listening on port 57533
+1593656945472	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pq/f_w4yv8j06b_tbb69h1wnfy8txsbhl/T/rust_mozprofileRSE3IB"
+1593656945472	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pq/f_w4yv8j06b_tbb69h1wnfy8txsbhl/T/rust_mozprofile6rSggT"
+1593656945473	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pq/f_w4yv8j06b_tbb69h1wnfy8txsbhl/T/rust_mozprofileurhHHW"
+1593656948092	Marionette	INFO	Listening on port 57761
+1593656948106	Marionette	INFO	Listening on port 57759
+1593656948147	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593656948158	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593656948335	Marionette	INFO	Listening on port 57760
+1593656948352	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+1593656950587	Marionette	INFO	Stopped listening on port 57761
+1593656950615	Marionette	INFO	Stopped listening on port 57760
+1593656950847	Marionette	INFO	Stopped listening on port 57759
+1593657017350	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pq/f_w4yv8j06b_tbb69h1wnfy8txsbhl/T/rust_mozprofile9DTFHO"
+1593657019416	Marionette	INFO	Listening on port 57957
+1593657019512	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+1593657021640	Marionette	INFO	Stopped listening on port 57957
+1593657025048	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pq/f_w4yv8j06b_tbb69h1wnfy8txsbhl/T/rust_mozprofilerUpDJl"
+1593657027059	Marionette	INFO	Listening on port 58020
+1593657027095	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+1593657029076	Marionette	INFO	Stopped listening on port 58020
+1593657033405	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pq/f_w4yv8j06b_tbb69h1wnfy8txsbhl/T/rust_mozprofileyuCQ5Q"
+1593657035406	Marionette	INFO	Listening on port 58087
+1593657035456	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2819.js, line 1: unreachable code after return statement
+1593657037400	Marionette	INFO	Stopped listening on port 58087
